@@ -85,6 +85,18 @@ I am passionate about web development and have a strong background in various we
       </a>
       <br>MUI
     </td>
+    <td align="center" width="96">
+      <a href="/">
+        <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="48" height="48" alt="Go GIN" />
+      </a>
+      <br>GIN
+    </td>
+    <td align="center" width="96">
+      <a href="/">
+        <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" width="48" height="48" alt="Go GIN" />
+      </a>
+      <br>Redis
+    </td>
   </tr>
 </table>
 
