@@ -93,7 +93,7 @@ I am passionate about web development and have a strong background in various we
     </td>
     <td align="center" width="96">
       <a href="/">
-        <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" width="48" height="48" alt="Go GIN" />
+        <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" width="48" height="48" alt="Redis" />
       </a>
       <br>Redis
     </td>
